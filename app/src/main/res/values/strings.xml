@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Florez.Pablo.AndroidCodingChallenge</string>
+    <string name="no_internet">There is no internet connection!</string>
+    <string name="error_message">Opps! Something went wrong</string>
+    <string name="unknown">Unknown</string>
+    <string name="author">Author:</string>
+</resources>
